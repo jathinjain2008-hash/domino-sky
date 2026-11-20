@@ -1,0 +1,6 @@
+{
+  "name": "Domino Sky",
+  "description": "Flight Disruption Cascade & Recovery Simulator for airline dispatch operations, rotation modeling, passenger impact analysis, and before-and-after recovery comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
